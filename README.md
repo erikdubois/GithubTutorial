@@ -29,3 +29,12 @@ Having a github makes it easy for distro's to download and install your files.
 
 #### Test
 
+	if ! location="$(type -p "git")" || [ -z "git" ]; then
+
+		echo "#################################################"
+		echo "installing git for this script to work"
+		echo "#################################################"
+
+		sudo apt install git -y
+	fi
+

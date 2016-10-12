@@ -22,7 +22,16 @@ The `intention` is to have a backup or a way to share your
 We assume `only one person` will update the github. No collaboration with others. 
 If you want to collaborate with others, you definitely *will need to learn your github commands*.
 
-Having a github makes it easy for distro's to download and install your files.
+# Why do I need a github
+
+- It is a **backup system** for you.
+- Moving from pc to pc and **syncing** the latest work via github.
+- You can easily **share** files with others.
+- Some distro's make **installing** from github very easy.
+- **Communicate** with others via github.
+- Github has a system to **follow up** issues.
+- More **visibility** for your projects. 
+
 
 
 # Youtube tutorials

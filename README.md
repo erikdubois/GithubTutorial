@@ -6,8 +6,8 @@ A **quick and easy** way to set up a personal github.
 
 Only two scripts are needed.
 
-    One to setup github.
-    One to use continuously.
+- One to setup github.
+- One to use continuously.
 
 The `intention` is to have a backup or a way to share your
 

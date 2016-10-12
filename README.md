@@ -38,3 +38,4 @@ Having a github makes it easy for distro's to download and install your files.
 		sudo apt install git -y
 	fi
 
+![Screenshots](http://i.imgur.com/hlriN9h.jpg)

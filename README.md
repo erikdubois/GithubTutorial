@@ -9,7 +9,7 @@ Only two scripts are needed.
     One to setup github.
     One to use continuously.
 
-The intention is to have a backup or a way to share your
+The `intention` is to have a backup or a way to share your
 
     files
     icons

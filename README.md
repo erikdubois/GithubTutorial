@@ -2,7 +2,7 @@
 
 A **quick and easy** way to set up a personal github. 
 
-Skip a long and difficult learning proces of working with github and do this on a later date.
+Skip a *long and difficult* learning proces of working with github and do this on a later date.
 Only two scripts are needed.
 
     One to setup github.

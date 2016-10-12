@@ -19,7 +19,7 @@ The `intention` is to have a backup or a way to share your
 
 We assume only one person will update the github. No collaboration with others. 
 If you want to do this, you definitely will need to learn your github commands.
-I recommend this github for more info : https://www.atlassian.com/git/tutorials/
+I recommend this github for more info : [Tutorial](https://www.atlassian.com/git/tutorials/)
 
 Having a github makes it easy for distro's to download and install your files.
 

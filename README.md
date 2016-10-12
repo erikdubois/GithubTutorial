@@ -99,7 +99,7 @@ I have also included links in the scripts so you can learn more on the net.
 </a>
 
 
-## 3. Most used markdown to make a beautifull 'homepage' or README.md
+## 3. Most used markdown to make a beautiful 'homepage' or README.md
 
 * making titles or heading 1, 2, ...
 * making text bold or italic

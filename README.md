@@ -46,8 +46,8 @@ Not needed. Going over the code in the two scripts
 
 ## 3. Most used markdown to make a beautifull 'homepage' or README.md
 
-* making text bold or italic 
 * making titles or heading 1, 2, ...
+* making text bold or italic
 * making numbered and unnumbered lists
 * making a quote
 * making links
@@ -63,6 +63,14 @@ Not needed. Going over the code in the two scripts
 
 # Recommendation
 
-Bookmark this link to have a cheatsheet to all possible markdown for github
+Bookmark this link to have a cheatsheet to all possible markdown for github and thank me later.
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
+Bookmark this link to have one of the better guide to know all about github and thank me later.
+
+https://www.atlassian.com/git/tutorials
+
+
+

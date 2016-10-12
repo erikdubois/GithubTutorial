@@ -39,3 +39,7 @@ Having a github makes it easy for distro's to download and install your files.
 	fi
 
 ![Screenshots](http://i.imgur.com/hlriN9h.jpg)
+
+<a target="_blank" href="https://www.youtube.com/watch?v=mymzR-4hafQ&list=PLlloYVGq5pS43s05ltH9xh7paFteoT7UB">
+<img style="max-width:100%;" src="http://i.imgur.com/t9QTQR5.png">
+</a>

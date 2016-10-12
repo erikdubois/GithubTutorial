@@ -12,7 +12,7 @@ Only two scripts are needed.
 The `intention` is to have a backup or a way to share your
 
 1. files
-	a. dsfdsf
+  a. dsfdsf
 2. icons
 3. scripts
 4. themes

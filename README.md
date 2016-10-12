@@ -28,7 +28,10 @@ Having a github makes it easy for distro's to download and install your files.
 
 ## 1. Creating your first github repository
 
-Will be updated soon.
+Download this github to create your own github the easy way. 
+You can use the download button and unzip or use `git clone https://github.com/erikdubois/Github-Tutorial`
+
+### 1. 
 
 <a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS62xdUdNsWCqRC_y-cgqBbh">
 <img style="max-width:100%;" src="http://i.imgur.com/aLvTmJn.jpg">
@@ -68,7 +71,7 @@ Bookmark this link to have a cheatsheet to all possible markdown for github and 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
-Bookmark this link to have one of the better guide to know all about github and thank me later.
+Bookmark this link to have one of the better guides to know all about github and thank me later.
 
 https://www.atlassian.com/git/tutorials
 

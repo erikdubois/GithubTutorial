@@ -11,11 +11,11 @@ Only two scripts are needed.
 
 The `intention` is to have a backup or a way to share your
 
-    files
-    icons
-    scripts
-    themes
-    ... anything really.
+1. files
+2. icons
+3. scripts
+4. themes
+5. ... anything really.
 
 We assume only one person will update the github. No collaboration with others. 
 If you want to do this, you definitely will need to learn your github commands.

@@ -46,6 +46,14 @@ Not needed. Going over the code in the two scripts
 
 ## 3. Most used markdown to make a beautifull 'homepage' or README.md
 
+* making text bold or italic 
+* making titles or heading 1, 2, ...
+* making numbered and unnumbered lists
+* making a quote
+* making links
+* adding images
+* adding youtube
+
 
 <a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS62xdUdNsWCqRC_y-cgqBbh">
 <img style="max-width:100%;" src="http://i.imgur.com/aLvTmJn.jpg">

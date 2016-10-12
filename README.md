@@ -23,25 +23,20 @@ I recommend this github for more info : [Tutorial](https://www.atlassian.com/git
 
 Having a github makes it easy for distro's to download and install your files.
 
-## Test
 
-### Test
+# Youtube tutorials
 
-#### Test
+# 1. Creating your first github repository
 
-	if ! location="$(type -p "git")" || [ -z "git" ]; then
+Will be updated soon.
 
-		echo "#################################################"
-		echo "installing git for this script to work"
-		echo "#################################################"
-
-		sudo apt install git -y
-	fi
-
-![Screenshots](http://i.imgur.com/hlriN9h.jpg)
-
-<a target="_blank" href="https://www.youtube.com/watch?v=mymzR-4hafQ&list=PLlloYVGq5pS43s05ltH9xh7paFteoT7UB">
-<img style="max-width:100%;" src="http://i.imgur.com/t9QTQR5.png">
+<a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS62xdUdNsWCqRC_y-cgqBbh">
+<img style="max-width:100%;" src="http://i.imgur.com/aLvTmJn.jpg">
 </a>
 
-[link](https://www.youtube.com/watch?v=mymzR-4hafQ&list=PLlloYVGq5pS43s05ltH9xh7paFteoT7UB){:target="_blank"}
+
+# Recommendation
+
+Bookmark this link to have a cheatsheet to all possible markdown for github
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet

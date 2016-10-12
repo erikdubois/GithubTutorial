@@ -79,7 +79,7 @@ Run this script **ONLY ONCE** per computer. All parameters will be added and rem
 
 ### 6. Run git.sh
 
-Run this script **everytime you changed something** to your files and they will be posted to your github.
+Run this script **everytime you change** your files and they will be updated on your github.
 
 >**This is the only script you will need from now on.**
 
@@ -115,6 +115,24 @@ I have also included links in the scripts so you can learn more on the net.
 </a>
 
 
+## 4. Syncing your github repository on an other pc
+
+Assuming we are on a different pc. You take the following steps to get your github files locally.
+
+Open a terminal and type e.g.
+
+	git clone https://github.com/erikdubois/Github-Tutorial
+
+If you already have the github but want to update or sync, type this in the terminal
+
+	git pull
+
+If you changed something, you type this in the terminal to push it back on github.
+
+	./git.sh
+
+Remember to `git pull` your files from github on the other computer. Do not worry. 
+Git will warn you with a message if you forget.
 
 # Recommendation
 

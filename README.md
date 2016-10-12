@@ -12,7 +12,6 @@ Only two scripts are needed.
 The `intention` is to have a backup or a way to share your
 
 1. files
-  1. dsfdsf
 2. icons
 3. scripts
 4. themes
@@ -24,5 +23,6 @@ I recommend this github for more info : [Tutorial](https://www.atlassian.com/git
 
 Having a github makes it easy for distro's to download and install your files.
 
-
+[x] to do 
+[ ] buy
 

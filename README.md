@@ -92,7 +92,7 @@ I run it personally via terminal by typing
 ## 2. Getting a bit technical
 
 Not needed but if you are interested, I am going over the code in the two scripts.
-I have also included links in the scripts so you can learn via the net.
+I have also included links in the scripts so you can learn more on the net.
 
 <a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS62xdUdNsWCqRC_y-cgqBbh">
 <img style="max-width:100%;" src="http://i.imgur.com/aLvTmJn.jpg">

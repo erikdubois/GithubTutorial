@@ -75,12 +75,15 @@ the README.md too and change the file. You can see what markdown I have used to 
 
 **Edit this file so it holds your name and your email.**
 
-Run this script ONLY ONCE per computer. All parameters will be added and remembered.
+Run this script **ONLY ONCE** per computer. All parameters will be added and remembered.
 
 ### 6. Run git.sh
 
-Run this script everytime you changed something to your files and they will be posted to your github.
-This is the only script you will need from now on. I run it personally via terminal by typing
+Run this script **everytime you changed something** to your files and they will be posted to your github.
+
+>**This is the only script you will need from now on.**
+
+I run it personally via terminal by typing
 
 	./git.sh
 

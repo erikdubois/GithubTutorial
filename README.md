@@ -26,13 +26,31 @@ Having a github makes it easy for distro's to download and install your files.
 
 # Youtube tutorials
 
-# 1. Creating your first github repository
+## 1. Creating your first github repository
 
 Will be updated soon.
 
 <a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS62xdUdNsWCqRC_y-cgqBbh">
 <img style="max-width:100%;" src="http://i.imgur.com/aLvTmJn.jpg">
 </a>
+
+
+## 2. Getting a bit technical
+
+Not needed. Going over the code in the two scripts
+
+<a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS62xdUdNsWCqRC_y-cgqBbh">
+<img style="max-width:100%;" src="http://i.imgur.com/aLvTmJn.jpg">
+</a>
+
+
+## 3. Most used markdown to make a beautifull 'homepage' or README.md
+
+
+<a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS62xdUdNsWCqRC_y-cgqBbh">
+<img style="max-width:100%;" src="http://i.imgur.com/aLvTmJn.jpg">
+</a>
+
 
 
 # Recommendation

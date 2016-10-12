@@ -9,14 +9,6 @@ Only two scripts are needed.
 - One to setup github.
 - One to use continuously.
 
-The `intention` is to have a backup or a way to share your
-
-1. files
-2. icons
-3. scripts
-4. themes
-5. ... anything really.
-
 # Intended for ...
 
 We assume `only one person` will update the github. No collaboration with others. 
@@ -31,6 +23,17 @@ If you want to collaborate with others, you definitely *will need to learn your 
 - **Communicate** with others via github.
 - Github has a system to **follow up** issues.
 - More **visibility** for your projects. 
+
+# What can I share
+
+Anything really. 
+
+1. files
+2. scripts
+3. icons
+4. themes
+5. config files
+6. settings from applications
 
 
 

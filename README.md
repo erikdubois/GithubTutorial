@@ -59,15 +59,15 @@ Choose a name for your repository. You can change it later in settings.
 
 ### 3. git clone the empty repository
 
-Go to a terminal and git clone your repository
+Go to a terminal and git clone your repository e.g.
 
 	git clone https://github.com/erikdubois/Github-Tutorial
 
-Now you have folder that only **seems** empty. There is a hidden folder `.git` in there.
+Now you have a folder that only **seems** empty. There is a hidden folder `.git` in there.
 
 ### 4. copy/paste scripts
 
-Copy/paste the files from the downloaded Github-Tutorial inside your own github folder. You can copy/paste
+Copy/paste the files from the downloaded **Github-Tutorial** inside your own github folder. You can copy/paste
 the README.md too and change the file. You can see what markdown I have used to have titles, bold, images and youtube.
 
 

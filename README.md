@@ -17,9 +17,9 @@ The `intention` is to have a backup or a way to share your
 4. themes
 5. ... anything really.
 
-We assume only one person will update the github. No collaboration with others. 
+We assume `only one person` will update the github. No collaboration with others. 
 If you want to do this, you definitely will need to learn your github commands.
-I recommend this github for more info : [Tutorial](https://www.atlassian.com/git/tutorials/)
+I recommend this github for more info. [More info about Github](https://www.atlassian.com/git/tutorials/)
 
 Having a github makes it easy for distro's to download and install your files.
 
@@ -30,6 +30,7 @@ Having a github makes it easy for distro's to download and install your files.
 
 Download this github to create your own github the easy way. 
 You can use the download button and unzip or use `git clone https://github.com/erikdubois/Github-Tutorial`
+in the terminal.
 
 ### 1. 
 

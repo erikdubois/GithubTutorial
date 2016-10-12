@@ -30,13 +30,48 @@ Having a github makes it easy for distro's to download and install your files.
 
 Download this github to create your own github the easy way. 
 You can use the download button and unzip or use `git clone https://github.com/erikdubois/Github-Tutorial`
-in the terminal.
-
-### 1. 
+in the terminal. Once you have the code you follow the steps in the tutorial.
 
 <a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS62xdUdNsWCqRC_y-cgqBbh">
 <img style="max-width:100%;" src="http://i.imgur.com/aLvTmJn.jpg">
 </a>
+
+### 1. make an account on github
+
+No need to to help you there.
+
+### 2. create a new repository
+
+Choose a name for your repository. You can change it later in settings.
+
+### 3. git clone the empty repository
+
+Go to a terminal and git clone your repository
+
+	git clone https://github.com/erikdubois/Github-Tutorial
+
+Now you have folder that only **seems** empty. There is a hidden folder `.git` in there.
+
+### 4. copy/paste scripts
+
+Copy/paste the files from the downloaded Github-Tutorial inside your own github folder. You can copy/paste
+the README.md too and change the file. You can see what markdown I have used to have titles, bold, images and youtube.
+
+
+### 5. Run setup-git.sh 
+
+**Edit this file so it holds your name and your email.**
+
+Run this script ONLY ONCE per computer. All parameters will be added and remembered.
+
+### 6. Run git.sh
+
+Run this script everytime you changed something to your files and they will be posted to your github.
+This is the only script you will need from now on. I run it personally via terminal by typing
+
+	./git.sh
+
+
 
 
 ## 2. Getting a bit technical

@@ -43,7 +43,8 @@ fi
 
 # https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init
 # this will make the hidden folder .git
-git init
+# If you followed the tutorial the next line is not required
+# git init
 # https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
 git config --global user.name "Erik Dubois"
 git config --global user.email "erik.dubois@gmail.com"

@@ -30,3 +30,5 @@ git commit -m "Comment : $input on $curtime"
 git push -u origin master
 
 
+echo " ALL  D O N E !"
+

@@ -135,6 +135,12 @@ If you changed something, you type this in the terminal to push it back on githu
 Remember to `git pull` your files from github on the other computer. Do not worry. 
 Git will warn you with a message if you forget.
 
+
+<a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS62xdUdNsWCqRC_y-cgqBbh">
+<img style="max-width:100%;" src="http://i.imgur.com/aLvTmJn.jpg">
+</a>
+
+
 # Recommendation
 
 Bookmark this link to have a cheatsheet to all possible markdown for github and thank me later.

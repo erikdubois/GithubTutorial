@@ -11,16 +11,6 @@
 #
 ##################################################################################################################
 
-# Standard text output from Github
-
-# echo "# Github Tutorial" >> README.md
-# git init
-# git add README.md
-# git commit -m "first commit"
-# git remote add origin https://github.com/erikdubois/Github-Tutorial.git
-# git push -u origin master
-
-
 # Problem solving commands
 
 # Read before using it.
@@ -28,9 +18,14 @@
 # git reset --hard orgin/master
 # ONLY if you are very sure and no coworkers are on your github.
 
+# Command that have helped in the past
+# Force git to overwrite local files on pull - no merge
+# git fetch all
+# git push --set-upstream origin master
+# git reset --hard orgin/master
 
-# checking if git is installed else install it
-# assuming you have an debian based distro
+
+# installing git if not installed for specific distro's
 
 if ! location="$(type -p "git")" || [ -z "git" ]; then
 
@@ -39,22 +34,41 @@ if ! location="$(type -p "git")" || [ -z "git" ]; then
 	echo "#################################################"
 
   	sudo apt install git -y
+	# check if apt-git is installed
+	if which apt-get > /dev/null; then
+
+		sudo apt-get install -y git
+
+	fi
+
+	# check if pacman is installed
+	if which pacman > /dev/null; then
+
+		sudo pacman -S --noconfirm git
+
+	fi
+
+	# check if eopkg is installed
+	if which eopkg > /dev/null; then
+
+		sudo eopkg -y install git
+
+	fi
+
 fi
 
-# https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init
-# this will make the hidden folder .git
-# If you followed the tutorial the next line is not required
-# git init
-# https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
+#setting up git
+#https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
+
+git init
 git config --global user.name "Erik Dubois"
 git config --global user.email "erik.dubois@gmail.com"
-# Just making sure I will not get VI or VIM
 sudo git config --system core.editor nano
-# https://help.github.com/articles/caching-your-github-password-in-git/
 git config --global credential.helper cache
-# remember the login and password for 60 minutes or 3600 seconds
-git config --global credential.helper 'cache --timeout=3600'
+git config --global credential.helper 'cache --timeout=18000'
 git config --global push.default simple
 
 
-echo " ALL  D O N E !"
+echo "################################################################"
+echo "###################    T H E   E N D      ######################"
+echo "################################################################"
